@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, or any part of it, please cite the article below."
+title: "Reference implementation of the anaesthetised-adult digital twin"
+authors:
+  - family-names: Birs
+    given-names: Isabela
+  - family-names: Mihai
+    given-names: Marcian
+  - family-names: Hegedus
+    given-names: Erwin
+  - family-names: Muresan
+    given-names: Cristina
+license: MIT
+preferred-citation:
+  type: article
+  title: "Pharmacokinetic–pharmacodynamic blueprints for the anaesthetized adult digital twin: a coupled five-layer specification with an open reference implementation"
+  authors:
+    - family-names: Birs
+      given-names: Isabela
+    - family-names: Mihai
+      given-names: Marcian
+    - family-names: Hegedus
+      given-names: Erwin
+    - family-names: Muresan
+      given-names: Cristina
+  journal: "Sci. Rev."
+  volume: 1
+  start: 28
+  year: 2026
+  doi: "10.1038/s44573-026-00030-0"
